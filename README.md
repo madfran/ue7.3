@@ -1,4 +1,5 @@
 <h1>Wie die Ente als erste den Tag ansagte</h1>
+<p>Ein Fuchs und eine <b>Ente</b> machten eine <i>Wette</i> miteinander, wer von beiden als erste den Tag ansagen würde.</p>
 <ul>
   <ul>
   <li>Ente</li>
